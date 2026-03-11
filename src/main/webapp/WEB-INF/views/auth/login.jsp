@@ -22,7 +22,7 @@
        <div class="col-md-5 col-lg-4">
            <div class="card shadow login-card">
                <div class="card-body">
-                   <h4 class="mb-1 text-center">Support Ticketing HAHAHAHAHAHAH</h4>
+                   <h4 class="mb-1 text-center">Support Ticketing HAHAHAHAHAHAHddwdaw</h4>
                    <div class="text-muted text-center mb-4">
                        Sign in to continue
                    </div>
