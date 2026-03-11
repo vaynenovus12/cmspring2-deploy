@@ -16,7 +16,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Using -DskipTests to avoid the MySQL connection error
-                bat 'mvn clean package -DskipTests'
+                bat './mvnw clean package -DskipTests'
             }
         }
 
